@@ -1,4 +1,3 @@
-# Bike-Sales-Lakehouse-Databricks-PySpark-SQL-Delta-Lake
 # 🚲 Bike Sales Lakehouse
 
 This repository contains an end-to-end **Data Lakehouse implementation for Bike Sales**, built using **Databricks** and following the **Medallion Architecture**.
